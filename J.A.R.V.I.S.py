@@ -44,3 +44,4 @@ while x == 0:
                 except:
                     tts.speak("im sorry sir I couldnt find anything about that on my database")
                     continue
+                aaa
