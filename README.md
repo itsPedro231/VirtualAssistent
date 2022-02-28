@@ -1,2 +1,2 @@
 # VirtualAssistent
-Virtual assistent in development
+Virtual assistent in development.
